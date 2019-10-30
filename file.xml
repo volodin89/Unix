@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+   <duck id="1">
+      <material>Rubber</material>
+      <color>Yellow</color>
+      <size>10x10x10</size>
+      <manufacturer>Someone</manufacturer>
+      <price>100</price>
+   </duck>
+   <duck id="2">
+      <material>Rubber</material>
+      <color>Green</color>
+      <size>15x15x15</size>
+      <manufacturer>Somebody</manufacturer>
+      <price>150</price>
+   </duck>
+   <duck id="3">
+      <material>Rubber</material>
+      <color>Red</color>
+      <size>20x20x20</size>
+      <manufacturer>Someone</manufacturer>
+      <price>200</price>
+   </duck>
+   <duck id="4">
+      <material>Plastic</material>
+      <color>Blue</color>
+      <size>25x25x25</size>
+      <manufacturer>Somebody</manufacturer>
+      <price>250</price>
+   </duck>
+   <duck id="5">
+      <material>Plastic</material>
+      <color>Purple</color>
+      <size>30x30x30</size>
+      <manufacturer>Someone</manufacturer>
+      <price>300</price>
+   </duck>
+</catalog>
